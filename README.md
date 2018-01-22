@@ -2,7 +2,7 @@
 ## story behind the Stooge
 Have you ever found yourself in a place you need do something quick. Quick, I mean it. No fancy generators, 
 Dependency Injections, Composers, Decorators, Proxies, no. Just a few lines of code to make the magic happens. Even 
-more, you would like to get back to the it with no necessary to chase the latest super-fancy version (with 
+more, you would like to get back to it after time with no necessary to chase the latest super-fancy version (with 
 generators, DI, Composers etc. etc.).
 
 Have you?
